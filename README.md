@@ -40,7 +40,7 @@ A lightweight and secure Bash script that generates **strong, random passwords**
 2. **Make the script executable**:
 
    ```bash
-   chmod +x Password-Generator.sh
+   chmod +x passwordgenerator.sh
    ```
 
 3. **Run the script**:
