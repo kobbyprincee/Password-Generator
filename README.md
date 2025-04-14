@@ -46,7 +46,7 @@ A lightweight and secure Bash script that generates **strong, random passwords**
 3. **Run the script**:
 
    ```bash
-   ./Password-Generator.sh
+   ./passwordgenerator.sh
    ```
 
 ---
